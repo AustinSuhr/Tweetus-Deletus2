@@ -1,12 +1,12 @@
 {
-  "name": "ephemeral-twitter",
+  "name": "Tweetus-Deletus",
   "version": "1.0.0",
   "description": "Deletes and unlikes older tweets",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
     },
-  "author": "JacksonBates",
+  "author": "AustinSuhr",
   "license": "GPL-3.0",
   "dependencies": {
     "dotenv": "^4.0.0",
