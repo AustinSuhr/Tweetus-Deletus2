@@ -1,5 +1,5 @@
 {
-  "name": "Tweetus-Deletus",
+  "name": "tweetusdeletus",
   "version": "1.0.0",
   "description": "Deletes and unlikes older tweets",
   "main": "index.js",
